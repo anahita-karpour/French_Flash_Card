@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User progress
+data/words_to_learn.csv
